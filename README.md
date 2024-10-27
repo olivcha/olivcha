@@ -1,12 +1,11 @@
 - 👋 **Olivia Chavigny de Lachevrotiere**, based in **London, United Kingdom**, from Poznan, Poland. 
-- 👀 Interests lie primarily in software engineering with Machine Learning (incl. NLP, CV) and AI.
-- 📖 Currently an **MSc Computing** student at **Imperial College London** (2022/2023)
-- 💼 Background in business and marketing, with research orientation. 
+- 👀 Software engineering with Machine Learning (incl. NLP, CV) and AI.
+- 🧑🏻‍💻 Currently an Emerging Technologies R&D Engineer 
+- 📖 **MSc Computing** at **Imperial College London** (2022/2023)
+- 💼 Background in business and marketing. 
 - 📫 How to reach me : ohchavigny@gmail.com
 
-Most recent project is a CreativeBot - a chatbot for enhancing creativity, with rule-based and generative components (technologies used incl. Flask, React, AWS, Heroku, NLP in general and LLM in particular, etc.), which is also my final individual project at my MSc programme. Particularly aiming at researching target-guided open-domain dialogue in conversational agents. 
 
-Other projects contributed incl. a web app for 3D model visualisation in VR, or a face recognition app. 
 
 
 <!---
